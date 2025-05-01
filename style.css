@@ -1,13 +1,23 @@
 body {
     font-family: Calibri, "Segoe UI", Arial, sans-serif;
-}
-
-h1 {
+  }
+  
+  h1 {
     text-align: center;
+<<<<<<< HEAD
 }
 
 .container {
+=======
+  }
+  
+  .content {
+>>>>>>> Aleksandar_Panich_Feature1
     margin: 0 auto;
     width: 800px;
     text-align: center;
-}
+  }
+  
+  .clickable {
+    cursor: hand;
+  }
